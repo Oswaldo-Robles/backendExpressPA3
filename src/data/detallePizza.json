@@ -1,0 +1,94 @@
+[
+  {
+    "id": 1,
+    "nombre": "Pizza Margarita",
+    "descripcion": "Salsa de tomate, mozzarella y albahaca fresca.",
+   
+    "ingredientes": ["Salsa de tomate", "Queso mozzarella", "Albahaca fresca"],
+    "tamaños": [
+      { "nombre": "Mediana", "precio": 24.90 },
+      { "nombre": "Grande", "precio": 32.90 },
+      { "nombre": "Familiar", "precio": 42.90 }
+    ]
+  },
+  {
+    "id": 2,
+    "nombre": "Pizza Pepperoni",
+    "descripcion": "Clásica pizza con rodajas de pepperoni y queso.",
+    
+    "ingredientes": ["Salsa de tomate", "Queso mozzarella", "Pepperoni"],
+    "tamaños": [
+      { "nombre": "Mediana", "precio": 27.90 },
+      { "nombre": "Grande", "precio": 36.90 },
+      { "nombre": "Familiar", "precio": 47.90}
+]
+},
+
+ {
+    "id": 3,
+    "nombre": "Pizza Pepperoni",
+    "descripcion": "Clásica pizza con rodajas de pepperoni y queso.",
+    
+    "ingredientes": ["Salsa de tomate", "Queso mozzarella", "Pepperoni"],
+    "tamaños": [
+      { "nombre": "Mediana", "precio": 27.90 },
+      { "nombre": "Grande", "precio": 36.90 },
+      { "nombre": "Familiar", "precio": 47.90}
+]
+},
+
+ {
+    "id": 4,
+    "nombre": "Pizza Pepperoni",
+    "descripcion": "Clásica pizza con rodajas de pepperoni y queso.",
+    
+    "ingredientes": ["Salsa de tomate", "Queso mozzarella", "Pepperoni"],
+    "tamaños": [
+      { "nombre": "Mediana", "precio": 27.90 },
+      { "nombre": "Grande", "precio": 36.90 },
+      { "nombre": "Familiar", "precio": 47.90}
+]
+},
+
+{
+    "id": 5,
+    "nombre": "Pizza Pepperoni",
+    "descripcion": "Clásica pizza con rodajas de pepperoni y queso.",
+    "ingredientes": ["Salsa de tomate", "Queso mozzarella", "Pepperoni"],
+    "tamaños": [
+      { "nombre": "Mediana", "precio": 27.90 },
+      { "nombre": "Grande", "precio": 36.90 },
+      { "nombre": "Familiar", "precio": 47.90}
+]
+},
+{
+    "id":6,
+    "nombre": "Pizza Pepperoni",
+    "descripcion": "Clásica pizza con rodajas de pepperoni y queso.",
+    "ingredientes": ["Salsa de tomate", "Queso mozzarella", "Pepperoni"],
+    "tamaños": [
+      { "nombre": "Mediana", "precio": 27.90 },
+      { "nombre": "Grande", "precio": 36.90 },
+      { "nombre": "Familiar", "precio": 47.90}
+]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]
