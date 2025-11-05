@@ -15,3 +15,5 @@ El modificador -y significa “acepta todas las opciones por defecto”.
 - http://localhost:3000/api/pizza/pizzaLista
 - http://localhost:3000/api/pizza/detallePizza/1
 (puedes cambiar del 1 al 6, a partir del 7 da un error 404)
+- http://localhost:3000/img/pizza/cuatro-quesos.jpg
+(se cambia el nombre de la pizza para mostrar las imagenes)
