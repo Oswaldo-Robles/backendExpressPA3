@@ -8,9 +8,7 @@ const apiController = require('../controllers/apiController');
 router.get('/', apiController.index);
 
 
-
-router.get('/pizzaLista', apiController.pizzaList);
-
-router.get('/detallePizza/:id', apiController.detallePizza);
+router.get('/api/pizza/pizzaLista', apiController.pizzaList);
+router.get('/api/pizza/detallePizza/:id', apiController.detallePizza);
 
 module.exports = router;
