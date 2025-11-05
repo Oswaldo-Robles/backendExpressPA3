@@ -9,3 +9,9 @@ El modificador -y significa “acepta todas las opciones por defecto”.
 # Bajar el proyecto
 - npm install
 - npm start
+
+# Servicios creados:
+
+- http://localhost:3000/api/pizza/pizzaLista
+- http://localhost:3000/api/pizza/detallePizza/1
+(puedes cambiar del 1 al 6, a partir del 7 da un error 404)
