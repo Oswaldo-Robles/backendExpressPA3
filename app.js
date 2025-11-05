@@ -4,6 +4,10 @@ const cors = require('cors');
 const port = 3000;
 const apiRoutes = require('./src/router/apiRoutes');
 
+
+// Servir archivos estáticos desde la carpeta public
+app.use(express.static('public'));
+
 app.use(cors());
 //middleware para permitir la comunicación con el frontend
 
